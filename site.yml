@@ -1,0 +1,4 @@
+---
+- name: Playbookチュートリアル
+  hosts: all
+  tasks:
